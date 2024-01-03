@@ -1,16 +1,39 @@
-### Hi there 👋
+# Bienvenue à la maison de moi 🦧
 
-<!--
-**sbelomet/sbelomet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`On y trouve tout mes bouts de code que j'ai écrit à 42 😊`
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥Level 0️⃣
+
+**♻️ [LIBFT](https://github.com/sbelomet/libft) ♻️** - Plein de petites fonctions en guise d'amuse-bouche
+
+<br>
+
+## 🔥Level 1️⃣
+
+**🖨 [FT_PRINTF](https://github.com/sbelomet/printf) 🖨** - Y'a qu'a utiliser printf c'est facile
+
+**📖 [GET_NEXT_LINE](https://github.com/sbelomet/get_next_line) 📖** - Pour pouvoir get la line qui est next
+
+**🚜 BORN2BEROOT 🚜** - Va voir chez Pasquale je vais pas refaire un tuto
+
+<br>
+
+## 🔥Level 2️⃣
+
+**🧮 [PUSH_SWAP](https://github.com/sbelomet/push_swap) 🧮** - On l'adore le turc
+
+**📣 [MINITALK](https://github.com/sbelomet/minitalk) 📣** - Projet le plus facile au monde mais il est fun
+
+**🗺 [FDF](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet, je l'adore
+
+<br>
+
+## 🔥Level 3️⃣
+
+**🤔 [PHILOSOPHERS](https://github.com/sbelomet/philosophers) 🤔** - UNFINISHED
+
+<br>
+
+⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
