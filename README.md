@@ -1,39 +1,40 @@
 # Bienvenue à la maison de moi 🦧
 
-`On y trouve tout mes bouts de code que j'ai écrit à 42 😊`
+>On y trouve tout mes bouts de code que j'ai écrit à 42 😊
 
-<br>
 
-## 🔥Level 0️⃣
+### 🔥Level 0️⃣
 
-**♻️ [LIBFT](https://github.com/sbelomet/libft) ♻️** - Plein de petites fonctions en guise d'amuse-bouche
+- **♻️ [`LIBFT`](https://github.com/sbelomet/libft) ♻️** - Plein de petites fonctions en guise d'amuse-bouche
 
-<br>
 
-## 🔥Level 1️⃣
+##
 
-**🖨 [FT_PRINTF](https://github.com/sbelomet/printf) 🖨** - Y'a qu'a utiliser printf c'est facile
+### 🔥Level 1️⃣
 
-**📖 [GET_NEXT_LINE](https://github.com/sbelomet/get_next_line) 📖** - Pour pouvoir get la line qui est next
+- **🖨 [`FT_PRINTF`](https://github.com/sbelomet/printf) 🖨** - Y'a qu'a utiliser printf c'est facile
 
-**🚜 BORN2BEROOT 🚜** - Va voir chez Pasquale je vais pas refaire un tuto
+- **📖 [`GET_NEXT_LINE`](https://github.com/sbelomet/get_next_line) 📖** - Pour pouvoir get la line qui est next
 
-<br>
+- **🚜 `BORN2BEROOT` 🚜** - Va voir chez Pasquale je vais pas refaire un tuto
 
-## 🔥Level 2️⃣
 
-**🧮 [PUSH_SWAP](https://github.com/sbelomet/push_swap) 🧮** - On l'adore le turc
+##
 
-**📣 [MINITALK](https://github.com/sbelomet/minitalk) 📣** - Projet le plus facile au monde mais il est fun
+### 🔥Level 2️⃣
 
-**🗺 [FDF](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet, je l'adore
+- **🧮 [`PUSH_SWAP`](https://github.com/sbelomet/push_swap) 🧮** - On l'adore le turc
 
-<br>
+- **📣 [`MINITALK`](https://github.com/sbelomet/minitalk) 📣** - Projet le plus facile au monde mais il est fun
 
-## 🔥Level 3️⃣
+- **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet, je l'adore
 
-**🤔 [PHILOSOPHERS](https://github.com/sbelomet/philosophers) 🤔** - UNFINISHED
 
-<br>
+##
+
+### 🔥Level 3️⃣
+
+- **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - UNFINISHED
+
 
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
