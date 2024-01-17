@@ -29,12 +29,14 @@
 
 - **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet, je l'adore
 
+- **🛢 [`PIPEX`](https://github.com/sbelomet/pipex) 🛢** - UNFINISHED
+
 
 ##
 
 ### 🔥Level 3️⃣
 
-- **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - UNFINISHED
+- **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - C'est bien drôle ces threads
 
 
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
