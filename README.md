@@ -38,6 +38,6 @@
 
 - **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - C'est bien drôle ces threads
 
-- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - UNFINISHED 
+- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - Un monstre
 
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
