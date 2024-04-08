@@ -45,6 +45,6 @@
 
 ### 🔥Level 4️⃣
 
-- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices un peu ennuyeux finalement
+- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir
 
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
