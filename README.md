@@ -47,7 +47,7 @@
 
 - **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir
 
-- **🌐 [`MINIRT`](https://github.com/sbelomet/miniRT) 🌐** - Ok, meilleur projet celui-ci enfaite, sorryz FDF
+- **☀️ [`MINIRT`](https://github.com/sbelomet/miniRT) ☀️** - Ok, meilleur projet celui-ci enfaite, sorryz FDF
 
 
 ##
@@ -56,6 +56,6 @@
 
 - **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir reloaded
 
-- **☀️ [`WEBSERV`](https://github.com/sbelomet/webserv) ☀️** - Refaire Internet à partir de rien (jsp j'aime pas le web)
+- **🌐 [`WEBSERV`](https://github.com/sbelomet/webserv) 🌐** - Refaire Internet à partir de rien (jsp j'aime pas le web)
   
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
