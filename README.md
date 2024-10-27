@@ -27,7 +27,7 @@
 
 - **📣 [`MINITALK`](https://github.com/sbelomet/minitalk) 📣** - Projet le plus facile au monde mais il est fun
 
-- **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet, je l'adore
+- **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet? omg!!!
 
 - **🛢 [`PIPEX`](https://github.com/sbelomet/pipex) 🛢** - UNFINISHED
 
@@ -38,7 +38,7 @@
 
 - **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - C'est bien drôle ces threads
 
-- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - On rigole plus
+- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - C'est drole juré
 
 
 ##
@@ -49,6 +49,8 @@
 
 - **☀️ [`MINIRT`](https://github.com/sbelomet/miniRT) ☀️** - Ok, meilleur projet celui-ci enfaite, sorryz FDF
 
+- **🖥️ `NETPRACTICE` 🖥️** - ouais va voir ailleurs ya plein de tutos
+
 
 ##
 
@@ -56,6 +58,15 @@
 
 - **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir reloaded
 
-- **🌐 [`WEBSERV`](https://github.com/sbelomet/webserv) 🌐** - Refaire Internet à partir de rien (jsp j'aime pas le web)
+- **🌐 [`WEBSERV`](https://github.com/sbelomet/webserv) 🌐** - Refaire internet à partir de rien????? oui vrai
+
+- **🤓 [`INCEPTION`](https://github.com/sbelomet/inception) 🤓** - oulala docker et tout
+
+
+##
+
+### 🔥Level 6️⃣
+
+- **🕹️ `FT_TRANCENDENCE` 🕹️** - HohohohhAHHAHAHHAHAHAHAHA
   
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
