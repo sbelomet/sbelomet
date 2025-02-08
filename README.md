@@ -1,33 +1,33 @@
-# Bienvenue à la maison de moi 🦧
+# SEÁN BELOMETTI thats me 🦧
 
->On y trouve tout mes bouts de code que j'ai écrit à 42 😊
+>Here's all the code i wrote at 42 😊
 
 
 ### 🔥Level 0️⃣
 
-- **♻️ [`LIBFT`](https://github.com/sbelomet/libft) ♻️** - Plein de petites fonctions en guise d'amuse-bouche
+- **♻️ [`LIBFT`](https://github.com/sbelomet/libft) ♻️** - Compilation of simple functions
 
 
 ##
 
 ### 🔥Level 1️⃣
 
-- **🖨 [`FT_PRINTF`](https://github.com/sbelomet/printf) 🖨** - Y'a qu'a utiliser printf c'est facile
+- **🖨 [`FT_PRINTF`](https://github.com/sbelomet/printf) 🖨** - Remaking of printf
 
-- **📖 [`GET_NEXT_LINE`](https://github.com/sbelomet/get_next_line) 📖** - Pour pouvoir get la line qui est next
+- **📖 [`GET_NEXT_LINE`](https://github.com/sbelomet/get_next_line) 📖** - Gets the next line
 
-- **🚜 `BORN2BEROOT` 🚜** - Va voir chez Pasquale je vais pas refaire un tuto
+- **🚜 `BORN2BEROOT` 🚜** - Virtual Machine setup project
 
 
 ##
 
 ### 🔥Level 2️⃣
 
-- **🧮 [`PUSH_SWAP`](https://github.com/sbelomet/push_swap) 🧮** - On l'adore le turc
+- **🧮 [`PUSH_SWAP`](https://github.com/sbelomet/push_swap) 🧮** - Sorting algorithm
 
-- **📣 [`MINITALK`](https://github.com/sbelomet/minitalk) 📣** - Projet le plus facile au monde mais il est fun
+- **📣 [`MINITALK`](https://github.com/sbelomet/minitalk) 📣** - Send texts between two programs
 
-- **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Le meilleur projet? omg!!!
+- **🗺 [`FDF`](https://github.com/sbelomet/fdf) 🗺** - Wireframe map viewer
 
 - **🛢 [`PIPEX`](https://github.com/sbelomet/pipex) 🛢** - UNFINISHED
 
@@ -36,37 +36,37 @@
 
 ### 🔥Level 3️⃣
 
-- **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - C'est bien drôle ces threads
+- **🤔 [`PHILOSOPHERS`](https://github.com/sbelomet/philosophers) 🤔** - Threads introduction
 
-- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - C'est drole juré
+- **💾 [`MINISHELL`](https://github.com/sbelomet/minishell) 💾** - Simple shell
 
 
 ##
 
 ### 🔥Level 4️⃣
 
-- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir
+- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - C++ training
 
-- **☀️ [`MINIRT`](https://github.com/sbelomet/miniRT) ☀️** - Ok, meilleur projet celui-ci enfaite, sorryz FDF
+- **☀️ [`MINIRT`](https://github.com/sbelomet/miniRT) ☀️** - Raytracing engine
 
-- **🖥️ `NETPRACTICE` 🖥️** - ouais va voir ailleurs ya plein de tutos
+- **🖥️ `NETPRACTICE` 🖥️** - Networks practice
 
 
 ##
 
 ### 🔥Level 5️⃣
 
-- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - Des exercices à n'en plus finir reloaded
+- **🪑 [`CPP`](https://github.com/sbelomet/42CPP) 🪑** - C++ training
 
-- **🌐 [`WEBSERV`](https://github.com/sbelomet/webserv) 🌐** - Refaire internet à partir de rien????? oui vrai
+- **🌐 [`WEBSERV`](https://github.com/sbelomet/webserv) 🌐** - Custom server
 
-- **🤓 [`INCEPTION`](https://github.com/sbelomet/inception) 🤓** - oulala docker et tout
+- **🤓 [`INCEPTION`](https://github.com/sbelomet/inception) 🤓** - Docker introduction
 
 
 ##
 
 ### 🔥Level 6️⃣
 
-- **🕹️ `FT_TRANCENDENCE` 🕹️** - HohohohhAHHAHAHHAHAHAHAHA
+- **🕹️ `FT_TRANCENDENCE` 🕹️** - Fullstack project, a website for Pong playing
   
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
