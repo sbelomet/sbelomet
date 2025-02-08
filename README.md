@@ -67,6 +67,6 @@
 
 ### 🔥Level 6️⃣
 
-- **🕹️ `FT_TRANCENDENCE` 🕹️** - Fullstack project, a website for Pong playing
+- **🕹️ [`FT_TRANCENDENCE`](https://github.com/sbelomet/ft_trancendence) 🕹️** - Fullstack project, a website for Pong playing
   
 ⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽⎼⎻⎺⎻⎼⎽
